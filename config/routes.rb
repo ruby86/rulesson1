@@ -54,4 +54,5 @@ Rulesson1::Application.routes.draw do
   #     resources :products
   #   end
   get 'users' => 'users#index'
+
 end
